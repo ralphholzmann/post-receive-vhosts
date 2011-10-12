@@ -1,4 +1,0 @@
-repos/*
-node_modules/*
-app.js
-config/dev.sendtodropbox.com.json
