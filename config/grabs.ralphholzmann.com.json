@@ -1,0 +1,7 @@
+{
+    "domain" : "grabs.ralphholzmann.com",
+    "remote" : "grabs",
+    "branch" : "master",
+    "index" : "app.js",
+    "ref" : "refs/heads/master"
+}
