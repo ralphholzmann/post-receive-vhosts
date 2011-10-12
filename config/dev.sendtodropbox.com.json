@@ -1,7 +1,0 @@
-{
-    "domain" : "dev.sendtodropbox.com",
-    "remote" : "sendtodropbox",
-    "branch" : "site",
-    "index" : "app.coffee",
-    "ref" : "refs/heads/site"
-}
