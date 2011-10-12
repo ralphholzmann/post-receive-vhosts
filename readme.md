@@ -1,1 +1,1 @@
-Auto deploying servers via git hooks.
+Auto updating vhost servers via github post receive service hooks.
